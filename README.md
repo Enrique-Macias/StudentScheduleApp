@@ -78,4 +78,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENS
 
 ---
 
-¡Gracias por visitar este repositorio! Si tienes alguna pregunta o sugerencia, no dudes en abrir un [issue](https://github.com/tu-usuario/student-schedule-app/issues).
+¡Gracias por visitar este repositorio! Si tienes alguna pregunta o sugerencia, no dudes en abrir un [issue](https://github.com/Enrique-Macias/StudentScheduleApp/issues).
