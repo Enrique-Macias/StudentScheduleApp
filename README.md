@@ -60,15 +60,14 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 ## Capturas de pantalla
 
-![Pantalla principa](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/1.png)
-![Editar perfil](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/2.png)
-![Acciones para los cursos](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/3.png)
-![Curso agregado](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/4.png)
-![Vista de agregar Curso](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/5.png)
-![Vista de seleccionar fecha](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/6.png)
-
-
-
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <img src="https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/1.png" width="160" /> 
+  <img src="https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/2.png" width="160" /> 
+  <img src="https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/3.png" width="160" /> 
+  <img src="https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/4.png" width="160" /> 
+  <img src="https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/5.png" width="160" /> 
+  <img src="https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/6.png" width="160" /> 
+</div>
 
 ## Contribuir
 
