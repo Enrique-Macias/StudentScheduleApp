@@ -13,7 +13,7 @@
   - Opción para eliminar cursos que ya no son necesarios.
 
 - **Visualización de cursos con tarjetas**:
-  - Cada curso se muestra en formato de tarjeta (EventCard) que incluye todos los detalles: nombre, ubicación, días y horas de clase.
+  - Cada curso se muestra en formato de tarjeta (EventCard) que incluye todos los detalles: nombre, edificio, días y horas de clase.
 
 - **Interfaz intuitiva**:
   - Uso de menús contextuales (Context Menu) para acciones rápidas (editar, eliminar, compartir).
