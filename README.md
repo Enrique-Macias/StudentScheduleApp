@@ -60,7 +60,15 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 ## Capturas de pantalla
 
-_Añade aquí algunas capturas de pantalla de la app en funcionamiento para que otros puedan ver cómo luce._
+![Pantalla principa](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/1.png)
+![Editar perfil](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/2.png)
+![Acciones para los cursos](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/3.png)
+![Curso agregado](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/4.png)
+![Vista de agregar Curso](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/5.png)
+![Vista de seleccionar fecha](https://github.com/Enrique-Macias/StudentScheduleApp/blob/main/StudentScheduleAppScreenshots/6.png)
+
+
+
 
 ## Contribuir
 
